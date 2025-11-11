@@ -14,7 +14,7 @@ const App = () => {
         <directionalLight position={[0, 0, 5]} color="red" />
       </Canvas>
     </div>
-  )
-}
+  );
+};
 
 export default App;
